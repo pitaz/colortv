@@ -1,4 +1,4 @@
-# rn-unsplash
+# colortv
 #### The React native application uses unsplash api to search users and display their profile along with their photos
 
 # Getting Started
