@@ -3,10 +3,10 @@
 
 # Getting Started
 #### Follow the steps below to start this project
-1. Open terminal and run `git clone project`
+1. Open terminal and run `git clone https://github.com/pitaz/colortv.git`
 2. Run `yarn install` to install dependencies
 3. navigate to ios directory and run `pod install`
-4. run `yarn ios` or `yan android`
+4. run `yarn ios` or `yan android` to launch application
 
 # Bundle app
 #### For ios
